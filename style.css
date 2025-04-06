@@ -1,0 +1,20 @@
+.qr-code {
+  box-shadow: 0 5px 10px rgb(49, 44, 44);
+  border-radius: 24px;
+  padding: 20px;
+  max-width: 350px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.qr-code .img {
+  position: relative; /*To set the position of an element to fixed but relative to its container*/
+  height: 350px;
+  width: 350px;
+  border-radius: 24px;
+  margin-bottom: 20px;
+}
+
