@@ -9,7 +9,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [iD024.github.io](https://your-solution-url.com)
+- Solution URL: iD024.github.io/frontend-01
 
 ### Built with
  Semantic HTML5 markup
